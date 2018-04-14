@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker.Application", "PrimeChecker\PrimeChecker.Application.csproj", "{A9C56418-C485-4ABB-806D-CDF4D1178C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker.Tests", "PrimeChecker.Tests\PrimeChecker.Tests.csproj", "{9ECA2892-74FC-4346-AF09-8CF9A3651541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C56418-C485-4ABB-806D-CDF4D1178C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C56418-C485-4ABB-806D-CDF4D1178C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C56418-C485-4ABB-806D-CDF4D1178C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C56418-C485-4ABB-806D-CDF4D1178C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ECA2892-74FC-4346-AF09-8CF9A3651541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ECA2892-74FC-4346-AF09-8CF9A3651541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ECA2892-74FC-4346-AF09-8CF9A3651541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ECA2892-74FC-4346-AF09-8CF9A3651541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1102A51-5CE9-4805-9BFA-4D1E86146A47}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Jeremy Morgan\Documents\Visual Studio 2017\Projects\PrimeChecker\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+C:\Users\Jeremy Morgan\Documents\Visual Studio 2017\Projects\PrimeChecker\PrimeChecker\bin\Debug\PrimeChecker.exe
+C:\Users\Jeremy Morgan\Documents\Visual Studio 2017\Projects\PrimeChecker\PrimeChecker\bin\Debug\PrimeChecker.pdb
+C:\Users\Jeremy Morgan\Documents\Visual Studio 2017\Projects\PrimeChecker\PrimeChecker\obj\Debug\PrimeChecker.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy Morgan\Documents\Visual Studio 2017\Projects\PrimeChecker\PrimeChecker\obj\Debug\PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Morgan\Documents\Visual Studio 2017\Projects\PrimeChecker\PrimeChecker\obj\Debug\PrimeChecker.exe
+C:\Users\Jeremy Morgan\Documents\Visual Studio 2017\Projects\PrimeChecker\PrimeChecker\obj\Debug\PrimeChecker.pdb
